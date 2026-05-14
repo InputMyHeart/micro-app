@@ -1,0 +1,14 @@
+{
+  "eslint.useFlatConfig": true,
+  "eslint.workingDirectories": [
+    "main-app",
+    "mock-exam-app"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "vue"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}

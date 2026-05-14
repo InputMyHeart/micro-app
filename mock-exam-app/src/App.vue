@@ -49,3 +49,9 @@ onMounted(() => {
   }
 })
 </script>
+
+<style lang='scss' scoped>
+h2 {
+  color: var(--vibrant-teal);
+}
+</style>
